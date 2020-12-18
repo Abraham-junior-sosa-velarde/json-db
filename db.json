@@ -1,0 +1,9 @@
+{
+  "todos": [
+      { "id": "albert","apellido":"llanos","alias":"pipo","edad":"20","poder":"confundir"},
+      { "id": "brayan","apellido":"meneses","alias":"navajas","edad":"21","poder":"robar rapido"},
+      { "id": "daniel","apellido":"eguino","alias":"NANI!!!","edad":"22","poder":"Seducir ni***"},
+      { "id": "percy","apellido":"fernandez","alias":"Diosito","edad":"25","poder":"divinidad"},
+      { "id": "pablo","apellido":"alvarez","alias":"traiciones","edad":"23","poder":"traicion suprema"}
+]
+}
